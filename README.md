@@ -2,6 +2,7 @@ Abhinav Sagar who is Machine Learning Researcher at VIT. I took reference from h
 Link:-"https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a"
 Digital currencies that use complex computer algorithms and encryption to generate more currency and to protect transactions .
 Crypto currencies is that they utilize a network of thousands of computers that forward people’s transactions to what’s known as a block chain (essentially a big record of transactions kept secure by the network of computers). Once a transaction is in the block chain, it’s never coming out again; this protects crypto currencies from double-spends.
+Main Concept:-building model is main part of this project
 1.	We are building a three-layer recurrent network with 20% dropout at each layer to reduce over fitting in the training. The type of RNN we’re going to build is called a bidirectional LSTM network.
 2.	Bi-directional LSTM RNN is a relatively complex model to make in TensorFlow but with Keras we can do this in just about 1 lines. The Dense fully connected layer comes at the end then our activation function and then our loss function at the very end which is going to be Adam.
  
